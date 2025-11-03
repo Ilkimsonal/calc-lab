@@ -1,0 +1,3 @@
+(2 + 3) * 4 # This comment is fine
+5 # Valid comment
+10 + # comment mid-line not allowed 2

@@ -1,0 +1,4 @@
+# This line is a comment and should be ignored
+(2 + 3) * 4
+# Another comment
+10 / 2 + 5
